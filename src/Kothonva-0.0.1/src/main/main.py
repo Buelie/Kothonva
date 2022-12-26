@@ -1,4 +1,5 @@
 import random
+import logging
 
 class syst:
     def __init__(self , ner):
@@ -42,3 +43,13 @@ class random:
         val = random.randint(self.one , self.two)
         print("log : random randint >"+val)
         return val
+class classes:
+    def __init__(self , one , two):
+        self.one = one
+        self.two = two
+    def add(self):
+        name = self.one
+        print("creat a class >"+name)
+    def dele(self):
+        name = self.one
+        del name
