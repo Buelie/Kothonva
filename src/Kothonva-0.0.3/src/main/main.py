@@ -36,3 +36,19 @@ def randint(one , two):
         return val
     except:
         print("Error:Data that cannot be randomly generated")
+def evl(self):
+    try:
+        val = eval(self)
+        return val
+    except:
+        print("Error:Unable to execute")
+def rnd(one , two):
+    try:
+        val = round(one , two)
+        cnt = 0
+        while cnt <=2:
+            cnt += 1
+            ms = random.randint(1,10)
+        return val
+    except:
+        pass
