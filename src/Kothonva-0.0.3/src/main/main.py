@@ -1,5 +1,34 @@
 import random
 
+def open(one , two):
+    try:
+        open(""+one+"",""+two+"")
+    except:
+        print("Error!")
+def d(one , two):
+    try:
+        if str(two) == 'r':
+            val = float(one) * 2
+            return val
+        elif str(two) == 'p':
+            val = float(one) / 3.14
+            return val
+        else:
+            print("Error")
+    except:
+        print("Error!")
+def rsd(one):
+    try:
+        val = float(one) * float(one) * 3.14
+        return val
+    except:
+        print("Error!")
+def pai(one):
+    try:
+        val = float(one) * 2 * 3.14
+        return val
+    except:
+        print("Error!")
 def add(one , two):
     try:
         val = float(one) + float(two)
@@ -51,4 +80,4 @@ def rnd(one , two):
             ms = random.randint(1,10)
         return val
     except:
-        pass
+        print("Error!")
