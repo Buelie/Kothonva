@@ -4,11 +4,11 @@
 ***It is a Python-based superset that probably exists in the same way as ts***
 
 ## Features of Kothonva:
-* **Ability to run directly with Py**
-* **Fast running speed and compilation speed**
-* **Lightweight, small footprint or memory**
-* **The syntax is concise and clear**
-* **It is used more like a language than a superset**
+* [x] **Ability to run directly with Py**
+* [x] **Fast running speed and compilation speed**
+* [x] **Lightweight, small footprint or memory**
+* [x] **The syntax is concise and clear**
+* [x] **It is used more like a language than a superset**
 
 # documentation
 ***Under construction, maybe you can join our [KOOK community]() first***
