@@ -1,33 +1,23 @@
+# English | [简体中文]()
+
 # What is Kothonva?
+***It is a Python-based superset that probably exists in the same way as ts***
 
-***Kothonva is an object-oriented language based on Python (the language definition is similar to Java, mixed with some Python concepts)***
+## Features of Kothonva:
+* **Ability to run directly with Py**
+* **Fast running speed and compilation speed**
+* **Lightweight, small footprint or memory**
+* **The syntax is concise and clear**
+* **It is used more like a language than a superset**
 
-# Features and advantages of Kothonva
-* Lots of bugs (seems to be a disadvantage)
-  * Bugs are extremely fast
-  * Ability to handle some bugs independently (very artifact)
-* Lightweight, not too big
-* Extremely fast running speed (death and C ratio)
-* The compilation speed is more than 3 times that of Java
-* Unique way of aristic
+# documentation
+***Under construction, maybe you can join our [KOOK community]() first***
 
-# See my future thoughts?
-***Start this project, I'll finish it entirely on GitHub!***
-
-# example
-***one:***
-```python
-from Kothonva import *
-
-cal.add(1,1)
-cal.sub(1,1)
-cal.mul(1,1)
-cal.div(1,1)
-```
-***two:***
-```python
-from Kothonva import *
-
-msg = ['1','2','3']
-ran.cie(msg)
-```
+| version | Write status | Estimated time to completion | remark | link |
+| --- | --- | --- | --- | --- |
+| 0.0.1 | Under construction (not started writing) | 2023/7/5 | not | not | 
+| 0.0.2 | Under construction (not started writing) | 2023/12/6 | not | not |
+| 0.0.3 | Under construction (not started writing) | 2024/7/12 | not | not |
+| 0.0.4 | Under construction (not started writing) | 2024/12/26 | not | not |
+| 0.0.5 | Under construction (not started writing) | 2025/7/10 | not | not |
+| 0.0.6 | Under construction (not started writing) | 2025/12/2 | not | not |
