@@ -1,4 +1,5 @@
 import random
+import _thread
 
 class cal:
     def __init__(self , one , two):
@@ -53,3 +54,11 @@ class type:
             return val
         except  (TypeError,KeyError,ValueError,AttributeError,AssertionError,ArithmeticError):
             print("Error:The type could not be detected")
+def tha(one , two , three , four):
+    try:
+        _thread.start_new_thread(one)
+        _thread.start_new_thread(two)
+        _thread.start_new_thread(three)
+        _thread.start_new_thread(four)
+    except:
+        print("Error:Thread startup failed")
