@@ -1,64 +1,38 @@
 import random
-import _thread
 
-class cal:
-    def __init__(self , one , two):
-        self.one = one
-        self.two = two
-    def add(self):
-        try:
-            val = self.one + self.two
-            return val
-        except (TypeError,KeyError,ValueError,AttributeError,AssertionError,ArithmeticError):
-            print("Error:Cannot be calculated")
-    def sub(self):
-        try:
-            val = self.one - self.two
-            return val
-        except (TypeError,KeyError,ValueError,AttributeError,AssertionError,ArithmeticError):
-            print("Error:Cannot be calculated")
-    def mul(self):
-        try:
-            val = self.one * self.two
-            return val
-        except (TypeError,KeyError,ValueError,AttributeError,AssertionError,ArithmeticError):
-            print("Error:Cannot be calculated")
-    def div(self):
-        try:
-            val = self.one / self.two
-            return val
-        except (TypeError,KeyError,ValueError,AttributeError,AssertionError,ArithmeticError):
-            print("Error:Cannot be calculated")
-class random:
-    def __init__(self , one , two):
-        self.one = one
-        self.two = two
-    def choice(self):
-        try:
-            val = random.choice(self.one)
-            return val
-        except  (TypeError,KeyError,ValueError,AttributeError,AssertionError,ArithmeticError):
-            print("Error:Random generation failed")
-    def randint(self):
-        try:
-            val = random.randint(int(self.one),int(self.two))
-            return val
-        except  (TypeError,KeyError,ValueError,AttributeError,AssertionError,ArithmeticError):
-            print("Error:Random generation failed")
-class type:
-    def __init__(self , one):
-        self.one = one
-    def val(self):
-        try:
-            val = type(self.one)
-            return val
-        except  (TypeError,KeyError,ValueError,AttributeError,AssertionError,ArithmeticError):
-            print("Error:The type could not be detected")
-def tha(one , two , three , four):
+def add(one , two):
     try:
-        _thread.start_new_thread(one)
-        _thread.start_new_thread(two)
-        _thread.start_new_thread(three)
-        _thread.start_new_thread(four)
+        val = float(one) + float(two)
+        return val
     except:
-        print("Error:Thread startup failed")
+        print("Error:Data that cannot be calculated or that cannot be transformed")
+def sub(one , two):
+    try:
+        val = one - two
+        return val
+    except:
+        print("Error:Data that cannot be calculated or that cannot be transformed")
+def mul(one , two):
+    try:
+        val = one * two
+        return val
+    except:
+        print("Error:Data that cannot be calculated or that cannot be transformed")
+def div(one , two):
+    try:
+        val = one / two
+        return val
+    except:
+        print("Error:Data that cannot be calculated or that cannot be transformed")
+def choice(one):
+    try:
+        val = random.choice(one)
+        return val
+    except:
+        print("Error: Data is suspected to be a list")
+def randint(one , two):
+    try:
+        val = random.randint(one , two)
+        return val
+    except:
+        print("Error:Data that cannot be randomly generated")
