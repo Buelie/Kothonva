@@ -21,3 +21,15 @@
 | 0.0.4 | Under construction (not started writing) | 2024/12/26 | not | not |
 | 0.0.5 | Under construction (not started writing) | 2025/7/10 | not | not |
 | 0.0.6 | Under construction (not started writing) | 2025/12/2 | not | not |
+
+# Installation method
+* **Just because it's a Python project doesn't mean it's downloadable with the pip command!**
+  * **You should use git or download and apply the main.py file globally**
+    * **The following installation method will not work:**
+    ```
+    pip install Kothonva #one
+    git clone https://github.com/Buelie/Kothonva #two
+    ```
+    * **Why doesn't it work?**
+      * **1.The first one, because we didn't upload Kothonva to Pypi**
+      * **Second, because our repository contains all the Kothonva versions**
