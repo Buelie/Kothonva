@@ -33,3 +33,7 @@
     * **Why doesn't it work?**
       * **1.The first one, because we didn't upload Kothonva to Pypi**
       * **Second, because our repository contains all the Kothonva versions**
+
+# Focus on to-dos
+* Focus on to-dos
+ * [ ] **The suffix name can be submitted to the question-suffix to submit your idea**
