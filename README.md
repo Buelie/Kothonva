@@ -37,3 +37,5 @@
 # Focus on to-dos
 * Focus on to-dos
  * [ ] **The suffix name can be submitted to the question-suffix to submit your idea**
+ * [ ] **Independent into a programming language**
+ * [ ] **Language compiler**
