@@ -11,3 +11,13 @@
   * **`ex08` : [Under construction]()**
   * **`ex09` : [Under construction]()**
   * **`ex10` : [Under construction]()**
+
+***Welcome to maintain Kothonva, if you write a document to submit to Kothonva, remember to notify @Buelie***
+
+# Document form
+
+| language | Whether there is documentation | link |
+| --- | --- | --- |
+| Python | Yes | Not |
+| Java | Yes | Not |
+| C++/C#/C | Not/Yes/Not | Not |
