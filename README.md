@@ -1,6 +1,14 @@
 # English | [简体中文](https://github.com/Buelie/Kothonva/tree/main/zh-cn)
 ## 中文插话[欢迎大家来提交你的创意]
 
+# Check for updates within KOOK
+
+***If you are a KOOK user (note that this method only works with KOOK), you can invite the KOOK bot: [GitHub HOOK]() to view the repository update, note that before that, you need to enter the following command to bind:***
+```
+g.bind Buelie/Kothonva
+```
+***As for Discord users, we will soon develop related bots (or adaptations & bindings), KOOK bots are developed by users with the username: Xiaoye #8801, see [BotMarket](https://www.botmarket.cn/bots?id=100) for bot details***
+
 # What is Kothonva?
 ***It is a Python-based superset that probably exists in the same way as ts***
 
