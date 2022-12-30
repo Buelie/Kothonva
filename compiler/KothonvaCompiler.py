@@ -5,7 +5,7 @@ from ply.yacc import *
 
 # All tokens must be named in advance.
 tokens = ( 'PLUS', 'MINUS', 'TIMES', 'DIVIDE', 'LPAREN', 'RPAREN',
-           'NAME', 'NUMBER' )
+           'NAME', 'NUMBER', 'CodeOne', 'CodeTwo', 'CodeThree')
 
 # Ignored characters
 t_ignore = ' \t'
