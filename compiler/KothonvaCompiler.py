@@ -19,6 +19,11 @@ t_LPAREN = r'\('
 t_RPAREN = r'\)'
 t_NAME = r'[a-zA-Z_][a-zA-Z0-9_]*'
 
+# Code block
+t_CodeOne = r'{'
+t_CodeTwo = r'}'
+t_CodeThree = r';'
+
 # A function can be used if there is an associated action.
 # Write the matching regex in the docstring.
 def t_NUMBER(t):
