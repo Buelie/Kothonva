@@ -4,6 +4,7 @@
 # announcement
 * ***`Latest news`***
   * **First Generation Beta Compiler Released! (written in Python)**
+  * **A rare documentation update in 10,000 years!**
 * ***`announcement`***
   * **Functions of version 0.0.2 and below cannot be executed normally, please use a later version (0.1.0 is recommended, which is the version we currently consider stable)**
 * ***`To do`***
