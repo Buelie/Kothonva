@@ -39,3 +39,6 @@
  * [ ] **The suffix name can be submitted to the question-suffix to submit your idea**
  * [ ] **Independent into a programming language**
  * [x] **Language compiler**
+
+# contribute
+***You can save your contribution to your own repository (you can create a pull request) and then create a merge request***
