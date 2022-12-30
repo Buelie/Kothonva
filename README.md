@@ -1,4 +1,5 @@
 # English | [简体中文](https://github.com/Buelie/Kothonva/tree/main/zh-cn)
+## 中文插话[欢迎大家来提交你的创意]
 
 # What is Kothonva?
 ***It is a Python-based superset that probably exists in the same way as ts***
