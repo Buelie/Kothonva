@@ -1,7 +1,7 @@
 # [English](https://github.com/Buelie/Kothonva) | 简体中文
 
 # 什么是Kothonva?
-***它是一个基于 Python 的超集，可能以与 ts 相同的方式存在***
+***我语文不好,不会表达***
 
 # Kothonva的特点
 
