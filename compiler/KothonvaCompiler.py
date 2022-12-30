@@ -20,9 +20,9 @@ t_RPAREN = r'\)'
 t_NAME = r'[a-zA-Z_][a-zA-Z0-9_]*'
 
 # Code block
-t_CodeOne = r'{'
-t_CodeTwo = r'}'
-t_CodeThree = r';'
+t_CodeOne = r'\{'
+t_CodeTwo = r'\}'
+t_CodeThree = r'\;'
 
 # A function can be used if there is an associated action.
 # Write the matching regex in the docstring.
@@ -113,3 +113,6 @@ parser = yacc()
 # Parse an expression
 ast = parser.parse('2 * 3 + 4 * (5 - x)')
 print(ast)
+
+def p_ret(p):
+    return ast
