@@ -1,6 +1,6 @@
 # Kothonva uses documentation
 * ***directory***
-  * **`ex00` : [introduction]()**
+  * **`ex00` : [introduction](./example/ex00/)**
   * **`ex01` : [Under construction]()**
   * **`ex02` : [Under construction]()**
   * **`ex03` : [Under construction]()**
