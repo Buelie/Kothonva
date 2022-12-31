@@ -10,7 +10,7 @@ g.bind Buelie/Kothonva
 ***As for Discord users, we will soon develop related bots (or adaptations & bindings), KOOK bots are developed by users with the username: 小夜#8801, see [BotMarket](https://www.botmarket.cn/bots?id=100) for bot details***
 
 # What is Kothonva?
-***It is a Python-based superset that probably exists in the same way as ts***
+***Kothonva is based on Python, and our approved compilers are limited to Python or C/C++. Kothonva is a lightweight language that is simple and easy to use, and the syntax retains most of Python's original functions, but also adds a large number of new functions.***
 
 ## Features of Kothonva:
 * [x] **Ability to run directly with Py**
