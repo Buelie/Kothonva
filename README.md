@@ -17,7 +17,7 @@ g.bind Buelie/Kothonva
 * [x] **Fast running speed and compilation speed**
 * [x] **Lightweight, small footprint or memory**
 * [x] **The syntax is concise and clear**
-* [x] **It is used more like a language than a superset**
+* [x] **(Obsolete)It is used more like a language than a superset**
 
 # documentation
 ***Under construction, maybe you can join our [KOOK community]() first***
