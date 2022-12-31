@@ -40,8 +40,8 @@ g.bind Buelie/Kothonva
     git clone https://github.com/Buelie/Kothonva #two
     ```
     * **Why doesn't it work?**
-      * **1.The first one, because we didn't upload Kothonva to Pypi**
-      * **Second, because our repository contains all the Kothonva versions**
+      * **1.The first one, because we didn't upload Kothonva to Pypi(Because the author encountered an error when uploading, it cannot be deleted, and it will be supported in the future, of course, you can also upload instead of the author, maybe the author will directly approve it)**
+      * **Second, because our repository contains all the Kothonva versions(The author's hard drive storage is not enough, woo-woo)**
 
 # Focus on to-dos
 * Focus on to-dos
