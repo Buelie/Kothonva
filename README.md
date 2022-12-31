@@ -51,3 +51,26 @@ g.bind Buelie/Kothonva
 
 # contribute
 ***You can save your contribution to your own repository (you can create a pull request) and then create a merge request***
+
+# Use on the IDE
+***At present, we can only provide code completion function of IDE VSCode, if you want to use it in other IDEs, you can send a private message to the author (need to provide the name and details of the IDE, and the IDE needs to support the use of plugins), we will make plugins as soon as possible according to the needs.Oh, and the good news is that we will be implementing our compiler and IDE in 2023!!!***
+
+# How Kothonva files are used in VSCode
+***You just need to download the corresponding version of Kothonva and drag it into a folder, here's how to do it:***
++ ***To create a new folder in the production folder, it is recommended to mak:***
+
++ Folder structure:
+```
+  --src
+   --Kothonva (This is a newly created folder to hold .py files)
+    --main.py
+   --Main.py
+```
++ ***Next, enter the following command in the Main.py (i.e. production file) file:***
+```python
+import Kothonva.main
+```
+***Then, you can use it, and of course you can import it as follows (but we don't recommend it):***
+```python
+from Kothonva.main import *
+```
