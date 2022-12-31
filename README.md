@@ -1,3 +1,5 @@
+<div style="text-align: center; "><img src="https://github.com/Buelie/Kothonva/blob/main/image/TitleS.png?raw=true"></div>
+
 # English | [简体中文](https://github.com/Buelie/Kothonva/tree/main/zh-cn)
 ## 中文插话[欢迎大家来提交你的创意]
 
