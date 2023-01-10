@@ -291,3 +291,10 @@ def json(self , two):
     except:
         print("Error:Unable to parse JSON or unable to write JSON")
         return 'error'
+"""
+def test():
+    try:
+       sseicon(websocket)
+       send("POST","URL")
+       return 0;
+"""
